@@ -1,5 +1,5 @@
 xlrd
-openpyxlrd
+openpyxl
 pandas
 streamlit
 plotly
